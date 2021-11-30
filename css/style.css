@@ -1056,3 +1056,7 @@ input:focus, textarea:focus {
         display: none;
     }
 }
+
+.animate__animated.animate__slideInUp{
+  --animate-duration: 3s;
+}
